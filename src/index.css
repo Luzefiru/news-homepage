@@ -9,3 +9,9 @@
     @apply bg-off-white;
   }
 }
+
+@layer utilities {
+  .desktop-article-cover {
+    content: url('./assets/images/image-web-3-desktop.jpg');
+  }
+}

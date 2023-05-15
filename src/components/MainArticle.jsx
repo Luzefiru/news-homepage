@@ -1,4 +1,4 @@
-import MainCover from '../assets/images/image-web-3-desktop.jpg';
+import MobileMainCover from '../assets/images/image-web-3-mobile.jpg';
 
 const MainArticle = () => {
   return (
@@ -7,9 +7,9 @@ const MainArticle = () => {
       className="lg:col-span-2 lg:grid xl:block"
     >
       <img
-        className="object-cover aspect-square lg:h-full lg:object-cover lg:aspect-auto xl:h-auto xl:object-contain"
+        className="md:desktop-article-cover aspect-square object-cover lg:h-full lg:object-cover md:aspect-auto xl:h-auto xl:object-contain"
         alt="Geometric Shapes"
-        src={MainCover}
+        src={MobileMainCover}
       />
       <div className="grid lg:grid-cols-2 mt-8 gap-4">
         <h1 className="font-black text-5xl lg:text-6xl text-very-dark-blue">
