@@ -11,6 +11,9 @@ module.exports = {
         'dark-greyish-blue': 'hsl(236, 13%, 42%)',
         'very-dark-blue': 'hsl(240, 100%, 5%)',
       },
+      fontFamily: {
+        sans: ['Inter', 'system-ui'],
+      },
       fontSize: {
         base: '15px',
       },
