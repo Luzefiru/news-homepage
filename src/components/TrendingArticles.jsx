@@ -7,7 +7,7 @@ const TrendingArticles = () => {
   return (
     <section
       aria-label="Trending Articles"
-      className="col-span-full grid grid-cols-3 gap-x-10"
+      className="col-span-full grid gap-y-6 lg:grid-cols-3 lg:gap-x-10 lg:gap-y-0"
     >
       <TrendingArticleCard
         cover={Article1Cover}

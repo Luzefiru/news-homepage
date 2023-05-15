@@ -1,6 +1,9 @@
 const NewArticles = () => {
   return (
-    <section aria-label="New Articles" className="bg-very-dark-blue p-7">
+    <section
+      aria-label="New Articles"
+      className="bg-very-dark-blue p-7 my-16 lg:my-0"
+    >
       <h2 className="text-soft-orange text-4xl font-bold">New</h2>
       <article>
         <a href="/">
