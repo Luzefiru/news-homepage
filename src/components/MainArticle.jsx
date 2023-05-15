@@ -2,7 +2,7 @@ import MainCover from '../assets/images/image-web-3-desktop.jpg';
 
 const MainArticle = () => {
   return (
-    <article className="col-span-2">
+    <article aria-label="Headline Article" className="col-span-2">
       <img alt="Geometric Shapes" src={MainCover} />
       <div className="grid grid-cols-2 mt-8 gap-4">
         <h1 className="font-black text-6xl text-very-dark-blue">

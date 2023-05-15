@@ -1,6 +1,6 @@
-const SideArticles = () => {
+const NewArticles = () => {
   return (
-    <section className="bg-very-dark-blue p-7">
+    <section aria-label="New Articles" className="bg-very-dark-blue p-7">
       <h2 className="text-soft-orange text-4xl font-bold">New</h2>
       <article>
         <a href="/">
@@ -40,4 +40,4 @@ const SideArticles = () => {
   );
 };
 
-export default SideArticles;
+export default NewArticles;

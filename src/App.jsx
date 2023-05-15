@@ -1,6 +1,6 @@
 import Header from './components/Header';
 import MainArticle from './components/MainArticle';
-import SideArticles from './components/SideArticles';
+import NewArticles from './components/NewArticles';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
 
       <main className="grid grid-cols-3 gap-x-6 gap-y-12">
         <MainArticle />
-        <SideArticles />
+        <NewArticles />
         <section className="col-span-full">
           <article>
             <div>01</div>
