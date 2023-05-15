@@ -54,7 +54,7 @@ Users should be able to:
 
 I learned that it is way harder to design pages without doing mobile-first design. Next time, I'll make the mobile navigation bar component or anything interactive - first - before proceeding to the easy layout designs.
 
-I also learned how to implement a responsive[Hamburger Menu](https://alvarotrigo.com/blog/hamburger-menu-css/) using Tailwind CSS.
+I also learned how to implement a responsive [Hamburger Menu](https://alvarotrigo.com/blog/hamburger-menu-css/) using Tailwind CSS.
 
 I also learned that using React with Tailwind CSS helps me manage the messy HTML Utility Classes because I can encapsulate each element to its own `.jsx` file.
 
