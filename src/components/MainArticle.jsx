@@ -22,7 +22,7 @@ const MainArticle = () => {
             really fulfilling its promise?
           </p>
           <a
-            className="w-fit lg:absolute lg:bottom-0 uppercase tracking-[0.25rem] font-semibold bg-soft-red hover:bg-very-dark-blue py-3 px-9 text-white"
+            className="w-fit lg:absolute lg:bottom-0 uppercase tracking-[0.25rem] font-semibold bg-soft-red hover:bg-very-dark-blue focus:bg-very-dark-blue py-3 px-9 text-white"
             href="/"
           >
             Read More

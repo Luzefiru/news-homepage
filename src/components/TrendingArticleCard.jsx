@@ -5,7 +5,7 @@ const TrendingArticleCard = ({ cover, number, heading, description, href }) => {
       <div className="col-span-2">
         <div className="text-grayish-blue font-bold text-4xl">{number}</div>
         <a href={href}>
-          <h4 className="font-black text-very-dark-blue text-lg my-2 hover:text-soft-red">
+          <h4 className="font-black text-very-dark-blue text-lg my-2 hover:text-soft-red focus:text-soft-red">
             {heading}
           </h4>
         </a>

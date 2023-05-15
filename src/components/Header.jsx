@@ -29,7 +29,7 @@ const Header = () => {
         <ul className="flex flex-col text-xl md:flex-row md:text-base gap-6 mt-[20vh] md:mt-0">
           <li>
             <a
-              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue hover:text-soft-red"
+              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue focus:text-soft-red hover:text-soft-red"
               href="/"
             >
               Home
@@ -37,7 +37,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue hover:text-soft-red"
+              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue focus:text-soft-red hover:text-soft-red"
               href="/"
             >
               New
@@ -45,7 +45,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue hover:text-soft-red"
+              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue focus:text-soft-red hover:text-soft-red"
               href="/"
             >
               Popular
@@ -53,7 +53,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue hover:text-soft-red"
+              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue focus:text-soft-red hover:text-soft-red"
               href="/"
             >
               Trending
@@ -61,7 +61,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue hover:text-soft-red"
+              className="px-4 py-2 font-medium text-very-dark-blue md:text-dark-grayish-blue focus:text-soft-red hover:text-soft-red"
               href="/"
             >
               Categories

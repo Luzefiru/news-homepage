@@ -7,7 +7,7 @@ const NewArticles = () => {
       <h2 className="text-soft-orange text-4xl font-bold">New</h2>
       <article>
         <a href="/">
-          <h3 className="text-white font-bold text-xl mt-7 mb-2 hover:text-soft-orange">
+          <h3 className="text-white font-bold text-xl mt-7 mb-2 focus:text-soft-orange hover:text-soft-orange">
             Hydrogen VS Electric Cars
           </h3>
         </a>
@@ -18,7 +18,7 @@ const NewArticles = () => {
       <hr className="border-0 h-px bg-dark-grayish-blue" />
       <article>
         <a href="/">
-          <h3 className="text-white font-bold text-xl mt-7 mb-2 hover:text-soft-orange">
+          <h3 className="text-white font-bold text-xl mt-7 mb-2 focus:text-soft-orange hover:text-soft-orange">
             The Downsides of AI Artistry
           </h3>
         </a>
@@ -30,7 +30,7 @@ const NewArticles = () => {
       <hr className="border-0 h-px bg-dark-grayish-blue" />
       <article>
         <a href="/">
-          <h3 className="text-white font-bold text-xl mt-7 mb-2 hover:text-soft-orange">
+          <h3 className="text-white font-bold text-xl mt-7 mb-2 focus:text-soft-orange hover:text-soft-orange">
             Is VC Funding Drying Up?
           </h3>
         </a>
